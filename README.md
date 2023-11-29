@@ -1,0 +1,2 @@
+# discord_pachisuro_bot
+集計サイトのデータをスクレイピングしてdiscordに通知
