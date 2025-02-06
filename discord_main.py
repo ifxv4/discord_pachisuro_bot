@@ -152,3 +152,4 @@ async def on_message(message):
 client.run(TOKEN)
 
 test
+test2
